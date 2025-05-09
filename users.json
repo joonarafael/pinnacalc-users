@@ -1,6 +1,6 @@
 {
   "users": [
-        {
+    {
       "name": "tester00",
       "expires": {
         "month": 12,
@@ -19,8 +19,6 @@
       "expires": {
         "month": 12,
         "year": 2025
-<<<<<<< HEAD
-=======
       }
     },
     {
@@ -28,7 +26,6 @@
       "expires": {
         "month": 5,
         "year": 2025
->>>>>>> f3619a9 (add södki)
       }
     }
   ]
